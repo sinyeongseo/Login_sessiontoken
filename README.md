@@ -1,5 +1,5 @@
 <div align= "center">
-   <img src="https://capsule-render.vercel.app/api?type=soft&color=7cc5fe&height=120&text=SpringFramework를%20활용한%20Session%20Token%20로그인 구현&animation=&fontColor=ffffff&fontSize=30" />
+   <img src="https://capsule-render.vercel.app/api?type=soft&color=7cc5fe&height=120&text=SpringFramework를%20활용한%20Session%20Token%20로그인%20구현&animation=&fontColor=ffffff&fontSize=30" />
 </div>
 <div align= "center"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Session VS Token Login 구 </h2>  
