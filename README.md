@@ -2,7 +2,7 @@
    <img src="https://capsule-render.vercel.app/api?type=soft&color=7cc5fe&height=120&text=SpringFramework를%20활용한%20Session%20Token%20로그인%20구현&animation=&fontColor=ffffff&fontSize=30" />
 </div>
 <div align= "center"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Session VS Token Login 구 </h2>  
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Session VS Token Login 구현 </h2>  
     <h3 style="font-weight: 700; font-size: 15px; text-align: center; background-color: #7cc5fe;"> 로그인 로직 </h3> 
     <img width="851" alt="Image" src="https://github.com/user-attachments/assets/056fe256-38a3-414a-9df6-cfeb41e8a2e5" /> <br><br>
     <h3 style="font-weight: 700; font-size: 15px; text-align: center; background-color: #7cc5fe;"> 세션 로그인 </h3> 
@@ -19,12 +19,7 @@
     <img width="866" alt="Image" src="https://github.com/user-attachments/assets/2cc012fa-d977-42de-ac35-17b5c8540c70" /> <br><br>
     <h3 style="font-weight: 700; font-size: 15px; text-align: center; background-color: #7cc5fe;"> JWT 토큰 로그인 주요 코드 </h3> 
     <img width="867" alt="Image" src="https://github.com/user-attachments/assets/1509cf9b-1f9e-40a2-ab9c-2dc83cae9f14" /> <br>
-    <img width="833" alt="Image" src="https://github.com/user-attachments/assets/39799f36-be58-496f-a2cc-7de145bbf623" /><br><br>
-    <h3 style="font-weight: 700; font-size: 15px; text-align: center; background-color: #7cc5fe;"> 세션 탈취 취약점 ?</h3> 
-    <img width="836" alt="Image" src="https://github.com/user-attachments/assets/81cdc37e-fa83-4bc2-913a-3585c3e5ca97" /> <br><br>
-    <h3 style="font-weight: 700; font-size: 15px; text-align: center; background-color: #7cc5fe;"> XSS 공격 취약점 ? </h3> 
-    <img width="840" alt="Image" src="https://github.com/user-attachments/assets/dc55a760-85e0-472a-ade3-9f28693a0628" /><br>
-    <img width="865" alt="Image" src="https://github.com/user-attachments/assets/281bb52d-6bcc-4212-be74-f8536661edd6" /> <br><br>
+    <img width="833" alt="Image" src="https://github.com/user-attachments/assets/39799f36-be58-496f-a2cc-7de145bbf623" /><br><br>    
 </div>
 <div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
@@ -38,8 +33,7 @@
 <div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 💡 What I learn? </h2> <br> 
     <div style="margin: 0 auto; text-align: center;" align= "center"> 
-      1) 세션 방식 로그인에 대해 이해도를 높이고 세션 탈취 취약점에 대해 알 수 있었다. <br> 
+      1) 세션 방식 로그인에 대해 이해도를 높이고 Spring framework의 어노테이션에 대해 알 수 있었다. <br> 
       2) Token 방식 로그인에 대해 알 수 있었고, 사용시의 장점을 알게 되었다. <br> 
-      3) XSS 취약점에 대해 알 수 있었고 방지 방법에 대해 알 수 있었다. <br>       
     </div>
 </div>
